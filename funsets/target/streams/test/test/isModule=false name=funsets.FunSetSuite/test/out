@@ -1,0 +1,11 @@
+[0m[[0minfo[0m] [0m[32mFunSetSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- contains is implemented[0m[0m
+[0m[[0minfo[0m] [0m[32m- singletonSet(1) contains 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- union contains all elements of each set[0m[0m
+[0m[[0minfo[0m] [0m[32m- intersect works[0m[0m
+[0m[[0minfo[0m] [0m[32m- diff works[0m[0m
+[0m[[0minfo[0m] [0m[32m- filter works[0m[0m
+[0m[[0minfo[0m] [0m[32m- forall works[0m[0m
+[0m[[0minfo[0m] [0m[32m- exists works[0m[0m
+[0m[[0minfo[0m] [0m[31m- map works *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  FunSets.forall(FunSetSuite.this.mod_four, mod_two_mult_two) was true, but FunSets.forall(mod_two_mult_two, FunSetSuite.this.mod_four) was false (FunSetSuite.scala:171)[0m[0m

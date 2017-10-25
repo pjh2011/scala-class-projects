@@ -1,0 +1,9 @@
+console
+val (left, right) = List(1).splitAt(1)
+5
+console
+import example.Lists_
+console
+run
+test
+submit ptrjhghs@gmail.com ca76mQTiAFHiSSQV

@@ -1,0 +1,39 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set()[0m
+[0m[[0mdebug[0m] [0m	modified: Set(/home/peter/IdeaProjects/forcomp/src/main/scala/forcomp/Anagrams.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated products: Set(/home/peter/IdeaProjects/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$wordOccurrences$1.class, /home/peter/IdeaProjects/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$3.class, /home/peter/IdeaProjects/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$2$$anonfun$apply$1.class, /home/peter/IdeaProjects/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$wordOccurrences$3.class, /home/peter/IdeaProjects/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$dictionaryByOccurrences$3.class, /home/peter/IdeaProjects/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$6.class, /home/peter/IdeaProjects/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$4$$anonfun$apply$4.class, /home/peter/IdeaProjects/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$combineWords$1.class, /home/peter/IdeaProjects/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$dictionaryByOccurrences$2.class, /home/peter/IdeaProjects/forcomp/target/scala-2.11/classes/forcomp/Anagrams.class, /home/peter/IdeaProjects/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$sentenceOccurrences$1.class, /home/peter/IdeaProjects/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$8.class, /home/peter/IdeaProjects/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$sentenceOccurrences$2.class, /home/peter/IdeaProjects/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$dictionaryByOccurrences$1.class, /home/peter/IdeaProjects/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$combinations$1$$anonfun$apply$3.class, /home/peter/IdeaProjects/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$wordOccurrences$2.class, /home/peter/IdeaProjects/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$1.class, /home/peter/IdeaProjects/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$5.class, /home/peter/IdeaProjects/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$subtract$1.class, /home/peter/IdeaProjects/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$wordAnagrams$2.class, /home/peter/IdeaProjects/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$dictionaryByOccurrences$3$$anonfun$apply$2.class, /home/peter/IdeaProjects/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$recursiveCombFind$1.class, /home/peter/IdeaProjects/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$4.class, /home/peter/IdeaProjects/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$7$$anonfun$apply$5.class, /home/peter/IdeaProjects/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$wordAnagrams$1.class, /home/peter/IdeaProjects/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$7.class, /home/peter/IdeaProjects/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$subtract$2.class, /home/peter/IdeaProjects/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$2.class, /home/peter/IdeaProjects/forcomp/target/scala-2.11/classes/forcomp/Anagrams$.class, /home/peter/IdeaProjects/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$combinations$1.class, /home/peter/IdeaProjects/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$combineWords$2.class)[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/home/peter/IdeaProjects/forcomp/src/main/scala/forcomp/Anagrams.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set(/home/peter/IdeaProjects/forcomp/src/main/scala/forcomp/Anagrams.scala)[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/peter/IdeaProjects/forcomp/src/main/scala/forcomp/Anagrams.scala)[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to /home/peter/IdeaProjects/forcomp/target/scala-2.11/classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.7[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.7[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 41ed0b74, interfacing (CompilerInterface) with Scala compiler version 2.11.7[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-deprecation[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/classes:/home/peter/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/peter/IdeaProjects/forcomp/target/scala-2.11/classes:/home/peter/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.7/scala-reflect-2.11.7.jar:/home/peter/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4.jar:/home/peter/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.4/scala-xml_2.11-1.0.4.jar:/home/peter/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 4.808742432 s[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/peter/IdeaProjects/forcomp/src/main/scala/forcomp/Anagrams.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/peter/IdeaProjects/forcomp/src/main/scala/forcomp/Anagrams.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/peter/IdeaProjects/forcomp/src/main/scala/forcomp/Anagrams.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/peter/IdeaProjects/forcomp/src/main/scala/forcomp/Anagrams.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/peter/IdeaProjects/forcomp/src/main/scala/forcomp/Anagrams.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	generateSentences, isInvalidOccurrences, findOccurrenceLists.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m

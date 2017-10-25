@@ -1,0 +1,4 @@
+[0m[[0minfo[0m] [0m+ Heap.gen1: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.merge2_compare_mins: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.fill_and_empty_ensure_same: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.fill_and_empty_and_meld_ensure_same: OK, passed 100 tests.[0m
